@@ -53,7 +53,16 @@ Users can add new tasks seamlessly with real-time updates to the task list.
 
 ---
 
-### 4️⃣ Task List & CRUD Operations
+### 4️⃣ Edit Task
+
+<img width="276" height="579" alt="Screenshot 2026-06-16 at 5 13 20 PM" src="https://github.com/user-attachments/assets/468f2a56-ca1d-454b-89ab-0d8fbdf42d9d" />
+
+**Edit existing tasks quickly and efficiently.**
+Allows users to update task details while maintaining a smooth and user-friendly experience.
+
+---
+
+### 5️⃣ Task List & CRUD Operations
 
 <img width="289" height="576" alt="Screenshot 2026-06-14 at 1 18 29 PM" src="https://github.com/user-attachments/assets/035793e0-69ca-4f11-9fa9-e045489e4415" />
 
